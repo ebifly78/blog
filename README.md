@@ -1,2 +1,3 @@
 # Welcome
-URL: https://ebifly78.github.io/ebiflog/
+
+[rink this site](https://ebifly78.github.io/ebiflog/)
