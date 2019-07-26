@@ -2,8 +2,8 @@
 
 created on 2019-07-26
 
-- [microSDカードの準備](## microSDカードの準備)
-- [SSH接続と初期設定](## SSH接続と初期設定)
+- [microSDカードの準備](#microSDカードの準備)
+- [SSH接続と初期設定](#SSH接続と初期設定)
 
 ## microSDカードの準備
 
